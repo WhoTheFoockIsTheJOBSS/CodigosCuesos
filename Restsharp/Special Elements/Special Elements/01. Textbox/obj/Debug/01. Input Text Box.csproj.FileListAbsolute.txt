@@ -1,0 +1,14 @@
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\bin\Debug\ConsoleApplication1.exe
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\bin\Debug\ConsoleApplication1.pdb
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\bin\Debug\WebDriver.dll
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\bin\Debug\WebDriver.Support.dll
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\obj\Debug\01. Input Text Box.csproj.AssemblyReference.cache
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\obj\Debug\01. Input Text Box.csproj.SuggestedBindingRedirects.cache
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\obj\Debug\01. Input Text Box.csproj.CoreCompileInputs.cache
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\obj\Debug\01. Input Text Box.csproj.CopyComplete
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\obj\Debug\ConsoleApplication1.exe
+C:\Users\titan\Downloads\Special Elements\Special Elements\01. Textbox\obj\Debug\ConsoleApplication1.pdb
