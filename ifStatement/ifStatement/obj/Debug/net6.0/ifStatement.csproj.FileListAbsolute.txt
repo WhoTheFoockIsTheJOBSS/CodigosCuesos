@@ -1,0 +1,15 @@
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\bin\Debug\net6.0\ifStatement.exe
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\bin\Debug\net6.0\ifStatement.deps.json
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\bin\Debug\net6.0\ifStatement.runtimeconfig.json
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\bin\Debug\net6.0\ifStatement.dll
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\bin\Debug\net6.0\ifStatement.pdb
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.csproj.AssemblyReference.cache
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.AssemblyInfoInputs.cache
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.AssemblyInfo.cs
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.csproj.CoreCompileInputs.cache
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.dll
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\obj\Debug\net6.0\refint\ifStatement.dll
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.pdb
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\obj\Debug\net6.0\ifStatement.genruntimeconfig.cache
+C:\Users\titan\Desktop\C#\ifStatement\ifStatement\obj\Debug\net6.0\ref\ifStatement.dll

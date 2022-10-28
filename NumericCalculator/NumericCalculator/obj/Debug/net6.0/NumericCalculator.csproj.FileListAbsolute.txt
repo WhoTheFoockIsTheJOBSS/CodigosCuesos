@@ -1,0 +1,15 @@
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\bin\Debug\net6.0\NumericCalculator.exe
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\bin\Debug\net6.0\NumericCalculator.deps.json
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\bin\Debug\net6.0\NumericCalculator.runtimeconfig.json
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\bin\Debug\net6.0\NumericCalculator.dll
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\bin\Debug\net6.0\NumericCalculator.pdb
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.csproj.AssemblyReference.cache
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.AssemblyInfoInputs.cache
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.AssemblyInfo.cs
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.csproj.CoreCompileInputs.cache
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.dll
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\obj\Debug\net6.0\refint\NumericCalculator.dll
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.pdb
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\obj\Debug\net6.0\NumericCalculator.genruntimeconfig.cache
+C:\Users\titan\Desktop\C#\NumericCalculator\NumericCalculator\obj\Debug\net6.0\ref\NumericCalculator.dll

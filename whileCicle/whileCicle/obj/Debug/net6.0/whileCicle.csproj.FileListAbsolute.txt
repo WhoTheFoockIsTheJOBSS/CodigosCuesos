@@ -1,0 +1,15 @@
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\bin\Debug\net6.0\whileCicle.exe
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\bin\Debug\net6.0\whileCicle.deps.json
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\bin\Debug\net6.0\whileCicle.runtimeconfig.json
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\bin\Debug\net6.0\whileCicle.dll
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\bin\Debug\net6.0\whileCicle.pdb
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.csproj.AssemblyReference.cache
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.AssemblyInfoInputs.cache
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.AssemblyInfo.cs
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.csproj.CoreCompileInputs.cache
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.dll
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\obj\Debug\net6.0\refint\whileCicle.dll
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.pdb
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\obj\Debug\net6.0\whileCicle.genruntimeconfig.cache
+C:\Users\titan\Desktop\C#\whileCicle\whileCicle\obj\Debug\net6.0\ref\whileCicle.dll

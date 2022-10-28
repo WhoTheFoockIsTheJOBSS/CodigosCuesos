@@ -1,0 +1,15 @@
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\bin\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.exe
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\bin\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.deps.json
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\bin\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.runtimeconfig.json
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\bin\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.dll
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\bin\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.pdb
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\obj\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.csproj.AssemblyReference.cache
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\obj\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\obj\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.AssemblyInfoInputs.cache
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\obj\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.AssemblyInfo.cs
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\obj\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.csproj.CoreCompileInputs.cache
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\obj\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.dll
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\obj\Debug\net6.0\refint\TheBestRestaurantOfTheFckinWorld.dll
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\obj\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.pdb
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\obj\Debug\net6.0\TheBestRestaurantOfTheFckinWorld.genruntimeconfig.cache
+C:\Users\titan\Desktop\C#\TheBestRestaurantOfTheFckinWorld\TheBestRestaurantOfTheFckinWorld\obj\Debug\net6.0\ref\TheBestRestaurantOfTheFckinWorld.dll

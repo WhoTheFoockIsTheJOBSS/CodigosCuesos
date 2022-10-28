@@ -1,0 +1,18 @@
+﻿
+int anyValue = 14;
+string message = "";
+
+if (anyValue == 7)
+{
+    message = "OMG, it's a miracle! the value is 7";
+}
+else if (anyValue == 14)
+{
+    message = "OMG, it's a double miracle!! the value is 14";
+}
+else
+{
+    message = "Pff, the value was not 7 :c";
+}
+
+Console.WriteLine($"The answer is > {message}");
